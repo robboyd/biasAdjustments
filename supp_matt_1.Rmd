@@ -1,5 +1,5 @@
 ---
-title: 'Supplementary material 2: Code to implement bias adjustments'
+title: 'Supplementary material 1: Code to implement bias adjustments'
 author: "Rob Boyd"
 date: "13 March 2023"
 output:
